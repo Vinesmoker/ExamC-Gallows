@@ -1,0 +1,7 @@
+	Welcome to the game "Gallows"!
+Rules of the game.The host of the game enters the word,
+and the other players guess it by entering one letter 
+at a time.If the player did not guess the letter, then 
+the turn passes to the next player.If more than one 
+player did not guess the letter, then the host of the 
+game enters a hint.
